@@ -1,0 +1,33 @@
+---------------Serial---------------
+[WARNING]: Running the sequential solver. Start with mpirun to execute the parallel version.
+6.47277
+----------Parallel--p-fixed---------
+p=9, k=3
+0.821997
+p=9, k=4
+0.830193
+p=9, k=5
+0.835092
+p=9, k=6
+0.826995
+p=9, k=7
+0.828465
+p=9, k=8
+0.823538
+----------Parallel--k-fixed---------
+p=3, k=5
+3.15783
+p=6, k=5
+1.40523
+p=9, k=5
+0.828511
+p=12, k=5
+0.620115
+p=15, k=5
+0.616284
+p=18, k=5
+0.482358
+p=21, k=5
+0.500742
+p=24, k=5
+0.483628
